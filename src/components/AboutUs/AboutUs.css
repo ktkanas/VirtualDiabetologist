@@ -1,0 +1,16 @@
+.blinking-cursor {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1.2em; /* Adjust this size as needed */
+    color: white; /* Cursor color */
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    from, to {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}

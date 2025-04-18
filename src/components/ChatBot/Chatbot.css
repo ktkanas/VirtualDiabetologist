@@ -1,0 +1,78 @@
+.modal {
+    backdrop-filter: blur(5px); /* Blurs the background when modal is open */
+}
+
+.modal-content {
+    width: 80%; /* Adjust the width of the modal */
+    max-width: 600px; /* Set a max width to maintain responsive design */
+    padding: 20px; /* Adjust padding */
+    box-shadow: 0 0 15px rgba(0, 102, 255, 0.7), 0 0 25px rgba(0, 102, 255, 0.5); /* Glowing effect */
+    border: none; /* Remove border */
+    animation: glow 1.5s infinite alternate; /* Breathing effect */
+}
+
+/* Add breathing effect keyframes */
+@keyframes glow {
+    0% {
+        box-shadow: 0 0 15px rgba(0, 102, 255, 0.5);
+    }
+    100% {
+        box-shadow: 0 0 25px rgba(0, 102, 255, 1);
+    }
+}
+
+/* Chatbot-specific styles */
+body, html {
+    overflow-x: hidden; /* Disable horizontal scroll globally */
+}
+
+/* Chat history customization */
+.chat-history {
+    overflow-y: auto; /* Enable vertical scroll */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    scrollbar-width: thin; /* Firefox scrollbar size */
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent; /* Firefox scrollbar color */
+    padding: 100px;
+}
+
+/* Webkit-based browsers (Chrome, Safari) scrollbar styling */
+.chat-history::-webkit-scrollbar {
+    width: 8px; /* Set the scrollbar width */
+}
+
+.chat-history::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.2); /* Thumb (scroll handle) color */
+    border-radius: 10px; /* Rounded scrollbar */
+}
+
+.chat-history::-webkit-scrollbar-track {
+    background-color: transparent; /* Track color (background of the scrollbar) */
+}
+
+/* Ensure that the chat container doesn't scroll horizontally */
+.chat-container {
+    overflow-x: hidden; /* Disable horizontal scroll */
+}
+
+.chat-item {
+    margin: 0.5rem 0;
+}
+
+.bubble {
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 15px;
+    max-width: 90%; /* Increased max-width to make the bubbles wider */
+
+}
+
+.chat-bubble-prompt {
+    align-items: flex-end;
+}
+
+.chat-bubble-response {
+    align-items: flex-start;
+}
+
+
+
