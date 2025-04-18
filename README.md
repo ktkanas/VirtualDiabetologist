@@ -168,7 +168,7 @@ python server.py
       ```
 
 ## 🎥 Demo  
-[Watch Demo Video on YouTube](https://shorturl.at/myew2)
+[Watch Demo Video](https://shorturl.at/myew2)
 
 ## 📄 License
 
