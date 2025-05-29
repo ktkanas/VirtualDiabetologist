@@ -1,6 +1,6 @@
 # 🩺 Virtual Diabetologist
 
-**Virtual Diabetologist** is an AI-powered healthcare web application that provides diabetes prediction, diabetic retinopathy detection, and an intelligent chatbot for personalized support. Built with **Flask**, **Node.js**, **React**, and **machine learning models**, it offers a comprehensive solution for diabetes management and can be integrated into external systems via APIs.
+**Virtual Diabetologist** is an AI-powered healthcare web application that provides diabetes prediction, diabetic retinopathy detection, and an intelligent chatbot for personalized support. Built with **Flask**, **Node.js**, **React**, and **machine learning models** using LLaMa3.2 8b, it offers a comprehensive solution for diabetes management and can be integrated into external systems via APIs.
 
 ---
 
