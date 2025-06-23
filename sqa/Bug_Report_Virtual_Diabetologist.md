@@ -8,9 +8,9 @@
 
 ### [BUG-001] Login fails with valid credentials (500 error on API)
 
-- **Created:** 20/Jun/25  
-- **Updated:** 23/Jun/25  
-- **Due Date:** 25/Jun/25  
+- **Created:** 2/Dec/24  
+- **Updated:** 3/Dec/24  
+- **Due Date:** 25/Dec/24  
 - **Status:** To Do  
 - **Project:** VD-APP  
 - **Components:** Auth, Backend API  
@@ -50,8 +50,8 @@ Password: Test123!
 
 ### [BUG-002] Retinal image upload accepts unsupported file types
 
-- **Created:** 21/Jun/25  
-- **Updated:** 23/Jun/25  
+- **Created:** 2/Dec/24 
+- **Updated:** 3/Dec/24  
 - **Status:** To Do  
 - **Components:** DR Detection, File Validation  
 - **Priority:** Medium  
@@ -82,8 +82,8 @@ File: `random.txt`
 
 ### [BUG-003] Chatbot crashes when input is only symbols or empty
 
-- **Created:** 23/Jun/25  
-- **Due Date:** 25/Jun/25  
+- **Created:** 2/Dec/24 
+- **Due Date:** 5/Dec/24
 - **Components:** Chatbot NLP  
 - **Priority:** High  
 - **Type:** Bug  
