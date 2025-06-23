@@ -1,7 +1,7 @@
 # 📄 Software Requirements Specification (SRS)
 **Project Title:** Virtual Diabetologist  
 **Prepared By:** Muhammad Anas  
-**Date:** June 2025  
+**Date:** June 2024
 
 ---
 
