@@ -1,7 +1,7 @@
 # 🧪 Test Cases – Diabetic Retinopathy Detection  
 **Module:** DR Detection (Image Upload + Risk Analysis)  
 **Prepared By:** Muhammad Anas  
-**Date:** November 2025 
+**Date:** November 2024 
 
 ---
 
