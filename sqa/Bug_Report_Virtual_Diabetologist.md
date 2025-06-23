@@ -44,9 +44,7 @@ User should be redirected to dashboard
 Email: user@test.com  
 Password: Test123!  
 
-**Evidence:**  
-📎 Screenshot: `/screenshots/bug-login-500.png`  
-📽️ Loom Video: https://www.loom.com/share/login-bug-demo  
+
 
 ---
 
@@ -79,8 +77,6 @@ File is accepted, leading to crash in backend image parser
 **Test Data:**  
 File: `random.txt`  
 
-**Attachments:**  
-- Screenshot: `/screenshots/file-type-bug.png`
 
 ---
 
@@ -111,4 +107,7 @@ Frontend freezes, backend throws null response exception
 **Logs:**  
 
 TypeError: Cannot read properties of undefined (reading 'response')
+
+![404](https://github.com/user-attachments/assets/b9dd8dc1-5eba-482b-baef-27ec784bc073)
+
 
