@@ -2,7 +2,7 @@
 
 **Project:** Virtual Diabetologist  
 **Prepared By:** Muhammad Anas (QA Analyst)  
-**Date:** June 2025  
+**Date:** November 2024   
 **Version:** 1.0  
 
 ---
@@ -99,10 +99,10 @@ Modules and components to be tested:
 
 | Phase                   | Dates          |
 |------------------------|----------------|
-| Requirements Review    | 25–26 June 2025 |
-| Test Case Design       | 26–27 June 2025 |
-| Test Execution         | 27–29 June 2025 |
-| Bug Fix & Retesting    | 29–30 June 2025 |
+| Requirements Review    | 25–26 November 2024 |
+| Test Case Design       | 26–27 November 2024 |
+| Test Execution         | 27–29 November 2024 |
+| Bug Fix & Retesting    | 29–30 November 2024 |
 
 ---
 
