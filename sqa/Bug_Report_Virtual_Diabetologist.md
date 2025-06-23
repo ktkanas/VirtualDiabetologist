@@ -1,7 +1,7 @@
 # 🐞 Bug Report – Virtual Diabetologist System  
 **Reported By:** Muhammad Anas (QA Analyst)  
 **Environment:** Stage – https://staging.virtualdiabetologist.com  
-**Generated:** June 23, 2025  
+**Generated:** December 2, 2024  
 **Platform:** Web (Chrome, Firefox), Backend (Flask), API Clients  
 
 ---
