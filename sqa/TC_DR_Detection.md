@@ -7,20 +7,21 @@
 
 ## ✅ Test Case: Upload Valid Image
 
-| TC ID         | TC-DR-001 |
-|---------------|-----------|
-| Title         | Upload valid retinal image |
-| Test Type     | Functional |
-| Priority      | High |
-| Preconditions | User is logged in |
-| Test Data     | `retina1.jpg` (valid image) |
-| Steps         | 1. Go to DR Detection module 
-                |  2. Click "Upload"|  3. Select and submit a valid retinal image |
-| Expected Result | Risk result is displayed (e.g., "No DR", "Moderate DR") |
-| Actual Result   | — |
-| Status          | — |
+| **TC ID**        | TC-DR-001 |
+|------------------|-----------|
+| **Title**        | Upload valid retinal image |
+| **Test Type**    | Functional |
+| **Priority**     | High |
+| **Preconditions**| User is logged in |
+| **Test Data**    | `retina1.jpg` (valid retinal image) |
+| **Steps**        |
+| 1. | Navigate to the DR Detection module |
+| 2. | Click the "Upload" button |
+| 3. | Select and submit a valid retinal image (`retina1.jpg`) |
+| **Expected Result** | The system displays the risk result (e.g., "No DR", "Moderate DR") |
+| **Actual Result**   | *To be filled after execution* |
+| **Status**          | *To be filled after execution* |
 
----
 
 ## ✅ Test Case: View Risk Prediction
 
