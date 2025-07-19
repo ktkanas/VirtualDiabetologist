@@ -14,9 +14,9 @@
 | **Preconditions** | User is logged in |
 | **Test Data**     | `retina1.jpg` (valid retinal image) |
 | **Steps**         |
-| 1. | Navigate to the DR Detection module |
-| 2. | Click the "Upload" button |
-| 3. | Select and submit a valid retinal image (`retina1.jpg`) |
+| 1.  Navigate to the DR Detection module |
+| 2.  Click the "Upload" button |
+| 3.  Select and submit a valid retinal image (`retina1.jpg`) |
 | **Expected Result** | The system displays the risk result (e.g., "No DR", "Moderate DR") |
 | **Actual Result**   | System successfully processed the image and displayed: **"No DR detected"** |
 | **Status**          | ✅ **Pass** |
