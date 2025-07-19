@@ -21,8 +21,8 @@
 2. Input age: 1  
 3. Submit |
 | Expected Result | Data accepted without error |
-| Actual Result   | — |
-| Status          | — |
+| Actual Result   | Data submitted successfully |
+| Status          | ✅ Pass |
 
 ---
 
@@ -39,8 +39,8 @@
 1. Input age: 120  
 2. Submit |
 | Expected Result | Data accepted without error |
-| Actual Result   | — |
-| Status          | — |
+| Actual Result   | Data submitted successfully |
+| Status          | ✅ Pass |
 
 ---
 
@@ -57,8 +57,8 @@
 1. Enter age: 200  
 2. Submit form |
 | Expected Result | Error message: “Invalid age” |
-| Actual Result   | — |
-| Status          | — |
+| Actual Result   | “Invalid age” message displayed |
+| Status          | ✅ Pass |
 
 ---
 
@@ -75,8 +75,8 @@
 1. Enter BMI: 9  
 2. Submit form |
 | Expected Result | Validation error shown |
-| Actual Result   | — |
-| Status          | — |
+| Actual Result   | Validation message: “BMI value too low” |
+| Status          | ✅ Pass |
 
 ---
 
@@ -96,8 +96,8 @@
 2. Toggle mobile view (e.g., iPhone X)  
 3. Navigate through pages |
 | Expected Result | Layout adjusts properly (no horizontal scroll) |
-| Actual Result   | — |
-| Status          | — |
+| Actual Result   | Layout responsive, no scroll needed |
+| Status          | ✅ Pass |
 
 ---
 
@@ -114,8 +114,8 @@
 1. Load landing page  
 2. Observe all primary CTA buttons |
 | Expected Result | Buttons are visible, accessible, and centered |
-| Actual Result   | — |
-| Status          | — |
+| Actual Result   | All CTA buttons are visible and properly aligned |
+| Status          | ✅ Pass |
 
 ---
 
@@ -132,10 +132,11 @@
 1. Resize browser to < 350px width  
 2. Navigate to chatbot and reports pages |
 | Expected Result | Text should wrap or scale correctly |
-| Actual Result   | — |
-| Status          | — |
+| Actual Result   | Some text clipped or overlapped in chatbot area |
+| Status          | ❌ Fail |
 
+---
 
+### GUI Test Screenshot
 
-### GUI Test :
-![gui tst](https://github.com/user-attachments/assets/aa039865-e0a2-4190-bcfa-5d2ae589f72a)
+![GUI Test](https://github.com/user-attachments/assets/aa039865-e0a2-4190-bcfa-5d2ae589f72a)
