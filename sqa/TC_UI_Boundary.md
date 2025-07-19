@@ -16,10 +16,10 @@
 | Priority      | Medium |
 | Preconditions | Health form visible |
 | Test Data     | Age: 1 |
-| Steps         | 
-1. Go to user profile or health input form  
-2. Input age: 1  
-3. Submit |
+| Steps         
+| |1. Go to user profile or health input form  
+| |2. Input age: 1  
+| |3. Submit |
 | Expected Result | Data accepted without error |
 | Actual Result   | Data submitted successfully |
 | Status          | ✅ Pass |
@@ -36,8 +36,8 @@
 | Preconditions | Health form visible |
 | Test Data     | Age: 120 |
 | Steps         | 
-1. Input age: 120  
-2. Submit |
+| |1. Input age: 120  
+| |2. Submit |
 | Expected Result | Data accepted without error |
 | Actual Result   | Data submitted successfully |
 | Status          | ✅ Pass |
