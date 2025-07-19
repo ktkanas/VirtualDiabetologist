@@ -14,8 +14,7 @@
 | Priority      | High |
 | Preconditions | User is logged in |
 | Test Data     | `retina1.jpg` (valid image) |
-| Steps         | 
-1. Go to DR Detection module  
+| Steps         | 1. Go to DR Detection module  
 2. Click "Upload"  
 3. Select and submit a valid retinal image |
 | Expected Result | Risk result is displayed (e.g., "No DR", "Moderate DR") |
